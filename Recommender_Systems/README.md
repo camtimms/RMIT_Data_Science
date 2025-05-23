@@ -27,6 +27,8 @@ This project implements and compares three different recommender system approach
 2. **Matrix Factorization (SVD/SVD++)** - Latent factor models for rating prediction
 3. **Improved Matrix Factorization with Features (IMFR)** - Enhanced SVD++ incorporating user demographics
 
+Find the presentation video here: https://youtu.be/uBtCEKuAPfA
+
 ## 📊 Dataset Information
 
 **MovieLens 1M Dataset:**
