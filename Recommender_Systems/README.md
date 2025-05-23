@@ -183,23 +183,6 @@ The project includes comprehensive visualizations:
 - Statistical significance testing
 - Comprehensive error analysis
 
-## 📝 Future Improvements
-
-1. **Algorithm Enhancements:**
-   - Deep learning approaches (Neural Collaborative Filtering)
-   - Hybrid recommendation systems
-   - Content-based filtering integration
-
-2. **Evaluation Extensions:**
-   - Additional ranking metrics (MAP, Recall@K)
-   - Temporal analysis of recommendations
-   - Diversity and novelty metrics
-
-3. **Scalability Optimizations:**
-   - Distributed computing implementation
-   - Online learning capabilities
-   - Real-time recommendation serving
-
 ## 👨‍💻 Author
 
 **Campbell Timms (s3720784)**  
