@@ -84,7 +84,7 @@ This project implements and compares three different recommender system approach
 
 | Model | RMSE | Average AP | Average NDCG |
 |-------|------|------------|--------------|
-| kNN (Euclidean, k=25) | [Value] | [Value] | [Value] |
+| kNN (Euclidean, k=25) | [1.326] | [Value] | [Value] |
 | SVD++ with Features | [Value] | [Value] | [Value] |
 
 **Key Findings:**
